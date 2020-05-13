@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="47" viewBox="0 0 76 47">
+  <defs>
+    <linearGradient id="логотип-иннолово1-a" x1="-7.753%" x2="110.816%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#00DCFF"/>
+      <stop offset="100%" stop-color="#5990FF"/>
+    </linearGradient>
+    <linearGradient id="логотип-иннолово1-b" x1="-7.753%" x2="110.816%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#00DCFF"/>
+      <stop offset="100%" stop-color="#5693FF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(3 3)">
+    <path stroke="url(#логотип-иннолово1-a)" stroke-width="6" d="M44,18.9660563 L19.0959488,38 C8.54954751,38 0,29.4934102 0,19 C0,8.50658975 8.54954751,0 19.0959488,0 C29.6375267,0 44,18.9660563 44,18.9660563 Z"/>
+    <path stroke="url(#логотип-иннолово1-b)" stroke-width="5" d="M44,30.0033732 C44,30.0033732 52.4902195,41 58.7177643,41 C62.7485188,41 66.4730897,38.903412 68.488467,35.5 C70.5038443,32.0965882 70.5038443,27.9034118 68.488467,24.5 C66.4730897,21.096588 62.7485188,19 58.7177643,19 L44,30.0033732 Z"/>
+  </g>
+</svg>

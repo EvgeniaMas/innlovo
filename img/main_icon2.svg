@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69" height="74" viewBox="0 0 69 74">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#FBF9F0"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#000" font-family="TTNorms-Regular, TT Norms" font-size="18" transform="translate(-261)">
+            <tspan x="0" y="88">Развитая инфраструктура поселка </tspan> <tspan x="0" y="113">позволяет жителям наслаждаться </tspan> <tspan x="0" y="138">загородной жизнью с городским </tspan> <tspan x="0" y="163">комфортом. </tspan>
+        </text>
+        <g>
+            <path fill="url(#a)" d="M31.903 73.395c20.032-.188 29.678-16.468 35.613-33.488C73.452 22.887 50.823 5.867 30.79.687 10.758-4.493 0 20.7 0 39.907c0 19.209 11.871 33.676 31.903 33.488z" transform="matrix(1 0 0 -1 0 73.397)"/>
+            <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M40.065 39.22V5.18M37.839 16.28l-5.194 4.44M42.29 16.28l5.194 4.44"/>
+            <ellipse cx="40.065" cy="14.8" fill="#D8D8D8" fill-rule="nonzero" rx="2.968" ry="2.96"/>
+            <path fill="#379258" fill-rule="nonzero" d="M9.645 49.047h44.541s-2.26-7.005-7.27-8.293c-5.009-1.289-6.555-.815-12.479.057-5.924.872-24.792 8.236-24.792 8.236z"/>
+            <path fill="#C78366" fill-rule="nonzero" d="M14.839 26.644a4.446 4.446 0 0 1 4.45-4.444h1.487c2.457 0 4.45 1.98 4.45 4.444V48.84H14.839V26.644z"/>
+            <path stroke="#C78366" stroke-linecap="square" stroke-width="2" d="M20.032 22.2v-6.822"/>
+            <path fill="#D8D8D8" fill-rule="nonzero" d="M12.682 8.808l2.099-2.098 4.71 4.709-2.1 2.099zM20.53 16.657l2.1-2.098 4.709 4.709-2.099 2.099z"/>
+            <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M22.103 16.131l-4.186-4.186"/>
+            <g>
+                <path fill="#D8D8D8" fill-rule="nonzero" d="M14.78 21.367l-2.098-2.1 4.71-4.708 2.098 2.098zM22.63 13.518l-2.1-2.099 4.71-4.71 2.099 2.1z"/>
+                <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M22.103 11.945l-4.186 4.186"/>
+            </g>
+            <path fill="#FFF7DB" fill-rule="nonzero" d="M17.806 42.18h4.452v6.66h-4.452zM17.065 28.12a2.968 2.968 0 0 1 5.935 0v3.7h-5.935v-3.7z"/>
+        </g>
+    </g>
+</svg>

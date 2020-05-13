@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="369" height="125" viewBox="0 0 369 125">
+    <defs>
+        <rect id="a" width="368.182" height="385" x=".725" rx="12"/>
+        <filter id="b" width="104.1%" height="103.9%" x="-2%" y="-1.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="6.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.821274909 0 0 0 0 0.821274909 0 0 0 0 0.821274909 0 0 0 0.5 0"/>
+        </filter>
+        <linearGradient id="d" x1="18.509%" x2="45.986%" y1="39.301%" y2="50.583%">
+            <stop offset="0%" stop-color="#FFF6DC"/>
+            <stop offset="100%" stop-color="#FFEFD3"/>
+        </linearGradient>
+        <linearGradient id="e" x1="15.539%" x2="57.414%" y1="43.638%" y2="48.372%">
+            <stop offset="0%" stop-color="#FFE0A7"/>
+            <stop offset="100%" stop-color="#FFFDF8"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(0 -260)">
+        <mask id="c" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <g mask="url(#c)">
+            <path fill="url(#d)" d="M60 385.852c54.311-138.233 150.207-191.395 287.687-159.488 137.48 31.908 237.86-12.88 301.14-134.364l28.107 223.014L393.54 548.796l-96.124-8.359-150.72-156.171L60 385.852z" opacity=".584" transform="rotate(20 44.587 -142.93)"/>
+            <path fill="url(#e)" d="M100.55 366.381c37.712-89.72 106.304-128.524 205.775-116.411 99.471 12.112 167.884-10.18 205.24-66.875L625.94 287.897l-215.893 213.41-86.3-.058-156.653-118.325-66.544-16.543z" opacity=".214" transform="rotate(20 39.366 -121.128)"/>
+        </g>
+    </g>
+</svg>

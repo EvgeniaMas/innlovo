@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="506" height="112" viewBox="0 0 506 112">
+    <defs>
+        <rect id="a" width="700" height="360" rx="30"/>
+        <linearGradient id="b" x1="81.491%" x2="54.014%" y1="44.375%" y2="50.307%">
+            <stop offset="0%" stop-color="#FFF6DC"/>
+            <stop offset="100%" stop-color="#FFEFD3"/>
+        </linearGradient>
+        <linearGradient id="d" x1="84.698%" x2="42.59%" y1="42.187%" y2="48.415%">
+            <stop offset="0%" stop-color="#FFE0A7"/>
+            <stop offset="100%" stop-color="#FFFDF8"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(0 -248)">
+        <mask id="c" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#a"/>
+        <path fill="url(#b)" d="M572 411.716C426.378 287.53 282.57 234.373 140.575 252.246-1.419 270.117-138.23 224.52-269.86 115.45L-430 378.364-.1 653.429l148.051-11.86L383.74 451.343 572 411.716z" mask="url(#c)" opacity=".572"/>
+        <path fill="url(#d)" d="M986 534.547c-104.397-194.252-284.952-260.065-541.665-197.44C187.622 399.735-17.822 321.032-171.998 101L-189 465.797 319.226 845l183.248-11.835 341.053-256.67L986 534.547z" mask="url(#c)" opacity=".298"/>
+    </g>
+</svg>

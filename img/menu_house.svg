@@ -1,0 +1,519 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 768 293">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.58;
+        fill: url(#Безымянный_градиент_2);
+      }
+
+      .cls-1, .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        opacity: 0.28;
+        fill: url(#Безымянный_градиент_50);
+      }
+
+      .cls-3 {
+        opacity: 0.6;
+      }
+
+      .cls-4 {
+        fill: url(#Безымянный_градиент_27);
+      }
+
+      .cls-5 {
+        fill: url(#Безымянный_градиент_14);
+      }
+
+      .cls-6 {
+        fill: url(#Безымянный_градиент_14-2);
+      }
+
+      .cls-7 {
+        fill: #3b5d7f;
+      }
+
+      .cls-8 {
+        fill: #2d4057;
+      }
+
+      .cls-9 {
+        fill: url(#Безымянный_градиент_10);
+      }
+
+      .cls-10 {
+        fill: none;
+        stroke: #2d4057;
+        stroke-width: 0.75px;
+      }
+
+      .cls-11 {
+        fill: url(#Безымянный_градиент_14-3);
+      }
+
+      .cls-12 {
+        fill: url(#Безымянный_градиент_10-2);
+      }
+
+      .cls-13 {
+        fill: url(#Безымянный_градиент_10-3);
+      }
+
+      .cls-14 {
+        fill: url(#Безымянный_градиент_10-4);
+      }
+
+      .cls-15 {
+        fill: url(#Безымянный_градиент_10-5);
+      }
+
+      .cls-16 {
+        fill: url(#Безымянный_градиент_10-6);
+      }
+
+      .cls-17 {
+        fill: url(#Безымянный_градиент_10-7);
+      }
+
+      .cls-18 {
+        fill: url(#Безымянный_градиент_14-4);
+      }
+
+      .cls-19 {
+        fill: url(#Безымянный_градиент_14-5);
+      }
+
+      .cls-20 {
+        fill: url(#Безымянный_градиент_14-6);
+      }
+
+      .cls-21 {
+        fill: url(#Безымянный_градиент_14-7);
+      }
+
+      .cls-22 {
+        fill: url(#Безымянный_градиент_14-8);
+      }
+
+      .cls-23 {
+        fill: url(#Безымянный_градиент_10-8);
+      }
+
+      .cls-24 {
+        fill: url(#Безымянный_градиент_10-9);
+      }
+
+      .cls-25 {
+        fill: url(#Безымянный_градиент_21);
+      }
+
+      .cls-26 {
+        fill: url(#Безымянный_градиент_14-9);
+      }
+
+      .cls-27 {
+        fill: url(#Безымянный_градиент_23);
+      }
+
+      .cls-28 {
+        fill: url(#Безымянный_градиент_10-10);
+      }
+
+      .cls-29 {
+        fill: #7c411e;
+        stroke: #604b3b;
+        stroke-width: 4px;
+      }
+
+      .cls-30 {
+        fill: #40a653;
+      }
+
+      .cls-31 {
+        fill: #2a6d37;
+      }
+
+      .cls-32 {
+        opacity: 0.6;
+      }
+
+      .cls-33 {
+        fill: url(#Безымянный_градиент_25);
+      }
+
+      .cls-34 {
+        fill: url(#Безымянный_градиент_25-2);
+      }
+
+      .cls-35 {
+        fill: #fafbfa;
+      }
+
+      .cls-36 {
+        fill: url(#Безымянный_градиент_27-2);
+      }
+
+      .cls-37 {
+        fill: url(#Безымянный_градиент_27-3);
+      }
+
+      .cls-38 {
+        fill: #485a73;
+      }
+
+      .cls-39 {
+        fill: url(#Безымянный_градиент_10-11);
+      }
+
+      .cls-40 {
+        fill: url(#Безымянный_градиент_10-12);
+      }
+
+      .cls-41 {
+        fill: url(#Безымянный_градиент_10-13);
+      }
+
+      .cls-42 {
+        fill: url(#Безымянный_градиент_10-14);
+      }
+
+      .cls-43 {
+        fill: url(#Безымянный_градиент_10-15);
+      }
+
+      .cls-44 {
+        fill: url(#Безымянный_градиент_10-16);
+      }
+
+      .cls-45 {
+        fill: url(#Безымянный_градиент_10-17);
+      }
+
+      .cls-46 {
+        fill: url(#Безымянный_градиент_10-18);
+      }
+
+      .cls-47 {
+        fill: url(#Безымянный_градиент_10-19);
+      }
+
+      .cls-48 {
+        fill: url(#Безымянный_градиент_25-3);
+      }
+
+      .cls-49 {
+        fill: url(#Безымянный_градиент_27-4);
+      }
+
+      .cls-50 {
+        fill: url(#Безымянный_градиент_10-20);
+      }
+
+      .cls-51 {
+        fill: url(#Безымянный_градиент_10-21);
+      }
+
+      .cls-52 {
+        fill: url(#Безымянный_градиент_10-22);
+      }
+
+      .cls-53 {
+        fill: url(#Безымянный_градиент_14-10);
+      }
+
+      .cls-54 {
+        fill: url(#Безымянный_градиент_14-11);
+      }
+
+      .cls-55 {
+        fill: url(#Безымянный_градиент_14-12);
+      }
+
+      .cls-56 {
+        fill: url(#Безымянный_градиент_14-13);
+      }
+
+      .cls-57 {
+        fill: url(#Безымянный_градиент_47);
+      }
+
+      .cls-58 {
+        fill: #a0642f;
+      }
+
+      .cls-59 {
+        fill: url(#Безымянный_градиент_47-2);
+      }
+    </style>
+    <linearGradient id="Безымянный_градиент_2" data-name="Безымянный градиент 2" x1="-1244.48" y1="65.38" x2="-1054.97" y2="93.33" gradientTransform="translate(-636.02 293.89) rotate(180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff6dc"/>
+      <stop offset="1" stop-color="#ffefd3"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_50" data-name="Безымянный градиент 50" x1="-1287.79" y1="71.4" x2="-1013.4" y2="94.78" gradientTransform="translate(-636.02 293.89) rotate(180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe0a7"/>
+      <stop offset="0.98" stop-color="#fff3d7"/>
+      <stop offset="1" stop-color="#fff3d8"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_27" data-name="Безымянный градиент 27" x1="-902.55" y1="552.45" x2="-900.25" y2="552.45" gradientTransform="translate(-43767.03 12623.2) rotate(180) scale(49.16 22.64)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.36" stop-color="#f6ac69"/>
+      <stop offset="1" stop-color="#ee412c"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_14" data-name="Безымянный градиент 14" x1="-905.61" y1="563.91" x2="-903.31" y2="563.91" gradientTransform="translate(-40767.11 55332.18) rotate(180) scale(45.79 97.91)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fafbfa"/>
+      <stop offset="0.88" stop-color="#ebd7c0"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_14-2" x1="-904.89" y1="557.8" x2="-902.59" y2="557.8" gradientTransform="translate(-39962.33 22200.55) rotate(180) scale(44.82 39.47)" xlink:href="#Безымянный_градиент_14"/>
+    <linearGradient id="Безымянный_градиент_10" data-name="Безымянный градиент 10" x1="-1009.86" y1="536.74" x2="-1011.01" y2="534.75" gradientTransform="translate(-8981.66 5154.08) rotate(180) scale(9.53 9.53)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#637897"/>
+      <stop offset="0.88" stop-color="#3c88ad"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_14-3" x1="-2086.47" y1="537.05" x2="-2086.47" y2="539.35" gradientTransform="translate(-1552.71 5608.65) rotate(180) scale(1.05 10.33)" xlink:href="#Безымянный_градиент_14"/>
+    <linearGradient id="Безымянный_градиент_10-2" x1="-1028.3" y1="546.65" x2="-1025.99" y2="546.65" gradientTransform="translate(-8121.35 8788.49) rotate(180) scale(8.56 15.9)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-3" x1="-1025.14" y1="546.65" x2="-1022.83" y2="546.65" gradientTransform="translate(-8142.23 8788.49) rotate(180) scale(8.56 15.9)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-4" x1="-1028.3" y1="544.58" x2="-1025.99" y2="544.58" gradientTransform="translate(-8121.35 8813.84) rotate(180) scale(8.56 15.9)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-5" x1="-1025.14" y1="544.58" x2="-1022.83" y2="544.58" gradientTransform="translate(-8142.23 8813.84) rotate(180) scale(8.56 15.9)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-6" x1="-1149.97" y1="523.79" x2="-1147.67" y2="523.79" gradientTransform="translate(-4647.84 4582.91) rotate(180) scale(4.55 8.43)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-7" x1="-1148.27" y1="523.79" x2="-1145.97" y2="523.79" gradientTransform="translate(-4653.79 4582.91) rotate(180) scale(4.55 8.43)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_14-4" x1="-959.62" y1="268.23" x2="-957.32" y2="268.23" gradientTransform="translate(-13890.79 557.44) rotate(180) scale(15.09 1.31)" xlink:href="#Безымянный_градиент_14"/>
+    <linearGradient id="Безымянный_градиент_14-5" x1="-959.62" y1="265.84" x2="-957.32" y2="265.84" gradientTransform="translate(-13890.79 559.84) rotate(180) scale(15.09 1.31)" xlink:href="#Безымянный_градиент_14"/>
+    <linearGradient id="Безымянный_градиент_14-6" x1="-941.74" y1="263.45" x2="-939.44" y2="263.45" gradientTransform="translate(-17551.9 562.25) rotate(180) scale(19.27 1.31)" xlink:href="#Безымянный_градиент_14"/>
+    <linearGradient id="Безымянный_градиент_14-7" x1="-941.74" y1="261.06" x2="-939.44" y2="261.06" gradientTransform="translate(-17551.9 564.65) rotate(180) scale(19.27 1.31)" xlink:href="#Безымянный_градиент_14"/>
+    <linearGradient id="Безымянный_градиент_14-8" x1="-941.74" y1="258.71" x2="-939.44" y2="258.71" gradientTransform="translate(-17551.9 567.01) rotate(180) scale(19.27 1.31)" xlink:href="#Безымянный_градиент_14"/>
+    <linearGradient id="Безымянный_градиент_10-8" x1="-1060.76" y1="537.25" x2="-1058.46" y2="537.25" gradientTransform="translate(-6480.53 6761.72) rotate(180) scale(6.62 12.27)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-9" x1="-1058.54" y1="537.25" x2="-1056.24" y2="537.25" gradientTransform="translate(-6491.83 6761.72) rotate(180) scale(6.62 12.27)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_21" data-name="Безымянный градиент 21" x1="-1021.59" y1="533.21" x2="-1020.53" y2="530.74" gradientTransform="translate(-8067.08 6232.41) rotate(180) scale(8.43 11.3)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e3c6af"/>
+      <stop offset="0.88" stop-color="#e9dcc9"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_14-9" x1="-925.37" y1="548.29" x2="-923.07" y2="548.29" gradientTransform="translate(-23107.01 9799.31) rotate(180) scale(25.59 17.67)" xlink:href="#Безымянный_градиент_14"/>
+    <linearGradient id="Безымянный_градиент_23" data-name="Безымянный градиент 23" x1="-1038.1" y1="547.47" x2="-1038.56" y2="549.36" gradientTransform="translate(-7223.35 9799.31) rotate(180) scale(7.46 17.67)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e3c6af"/>
+      <stop offset="0.88" stop-color="#cfc3b2"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_10-10" x1="-1145.35" y1="527.5" x2="-1143.06" y2="527.5" gradientTransform="translate(-4664.08 4558.84) rotate(180) scale(4.55 8.43)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_25" data-name="Безымянный градиент 25" x1="-848.67" y1="550.32" x2="-848.67" y2="552.62" gradientTransform="matrix(38.42, 0, 0, -23.2, 32896.26, 12962.56)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6ca94"/>
+      <stop offset="0.88" stop-color="#ebd7c0"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_25-2" x1="-833.69" y1="558.81" x2="-833.69" y2="556.51" gradientTransform="matrix(24.73, 0, 0, -39.04, 20885.95, 21957.07)" xlink:href="#Безымянный_градиент_25"/>
+    <linearGradient id="Безымянный_градиент_27-2" x1="-855.21" y1="548.68" x2="-855.88" y2="549.1" gradientTransform="matrix(51.23, 0, 0, -18.52, 44126.57, 10283.7)" xlink:href="#Безымянный_градиент_27"/>
+    <linearGradient id="Безымянный_градиент_27-3" x1="-840.58" y1="549.88" x2="-842.88" y2="549.88" gradientTransform="matrix(30.91, 0, 0, -20.75, 26318.8, 11565.48)" xlink:href="#Безымянный_градиент_27"/>
+    <linearGradient id="Безымянный_градиент_10-11" x1="-588.52" y1="511.61" x2="-587.83" y2="513.86" gradientTransform="matrix(3.65, 0, 0, -6.89, 2403.17, 3713.22)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-12" x1="-585.21" y1="511.61" x2="-584.52" y2="513.86" gradientTransform="matrix(3.65, 0, 0, -6.89, 2412.49, 3713.22)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-13" x1="-588.52" y1="509.33" x2="-587.83" y2="511.58" gradientTransform="matrix(3.65, 0, 0, -6.89, 2403.17, 3725.27)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-14" x1="-585.21" y1="509.33" x2="-584.52" y2="511.58" gradientTransform="matrix(3.65, 0, 0, -6.89, 2412.49, 3725.27)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-15" x1="-597.53" y1="487.5" x2="-596.4" y2="489.59" gradientTransform="matrix(3.97, 0, 0, -4.46, 2729.47, 2316.72)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-16" x1="-492.9" y1="498.81" x2="-492.21" y2="501.06" gradientTransform="matrix(2.88, 0, 0, -5.41, 1767.63, 2867.29)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-17" x1="-486.74" y1="498.81" x2="-486.05" y2="501.06" gradientTransform="matrix(2.86, 0, 0, -5.41, 1757.89, 2867.29)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-18" x1="-491.11" y1="495.38" x2="-488.8" y2="495.38" gradientTransform="matrix(2.86, 0, 0, -5.25, 1750.06, 2783.12)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-19" x1="-486.74" y1="494.52" x2="-486.01" y2="496.77" gradientTransform="matrix(2.86, 0, 0, -5.27, 1757.95, 2794.07)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_25-3" x1="-727.77" y1="538.34" x2="-727.77" y2="536.03" gradientTransform="matrix(7.12, 0, 0, -11.26, 5446.24, 6166.88)" xlink:href="#Безымянный_градиент_25"/>
+    <linearGradient id="Безымянный_градиент_27-4" x1="-780" y1="511.6" x2="-782.31" y2="511.6" gradientTransform="matrix(11.17, 0, 0, -6.01, 9000.59, 3184.06)" xlink:href="#Безымянный_градиент_27"/>
+    <linearGradient id="Безымянный_градиент_10-20" x1="-435" y1="492.86" x2="-434.35" y2="495.11" gradientTransform="matrix(2.4, 0, 0, -4.65, 1305.74, 2418.61)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-21" x1="-384.47" y1="479.5" x2="-383.87" y2="481.75" gradientTransform="matrix(2.21, 0, 0, -4.46, 1162.4, 2344.16)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_10-22" x1="-382.65" y1="479.5" x2="-382.05" y2="481.75" gradientTransform="matrix(2.21, 0, 0, -4.46, 1165.49, 2344.16)" xlink:href="#Безымянный_градиент_10"/>
+    <linearGradient id="Безымянный_градиент_14-10" x1="-760.2" y1="165.69" x2="-757.9" y2="165.69" gradientTransform="matrix(9.27, 0, 0, -1, 7358.69, 391.32)" xlink:href="#Безымянный_градиент_14"/>
+    <linearGradient id="Безымянный_градиент_14-11" x1="-759.98" y1="164.24" x2="-757.68" y2="164.24" gradientTransform="matrix(9.27, 0, 0, -1, 7360.23, 392.44)" xlink:href="#Безымянный_градиент_14"/>
+    <linearGradient id="Безымянный_градиент_14-12" x1="-759.77" y1="163.66" x2="-757.47" y2="163.66" gradientTransform="matrix(9.27, 0, 0, -1, 7361.78, 392.88)" xlink:href="#Безымянный_градиент_14"/>
+    <linearGradient id="Безымянный_градиент_14-13" x1="-759.43" y1="162.21" x2="-757.13" y2="162.21" gradientTransform="matrix(9.27, 0, 0, -1, 7364.21, 394)" xlink:href="#Безымянный_градиент_14"/>
+    <linearGradient id="Безымянный_градиент_47" data-name="Безымянный градиент 47" x1="-732.98" y1="551.53" x2="-732.98" y2="553.83" gradientTransform="matrix(7.88, 0, 0, -25.82, 6164.9, 14459.05)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#226620"/>
+      <stop offset="1" stop-color="#134954"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_47-2" x1="-663.88" y1="544.24" x2="-663.88" y2="546.54" gradientTransform="matrix(5.37, 0, 0, -17.56, 3972.96, 9776.62)" xlink:href="#Безымянный_градиент_47"/>
+  </defs>
+  <title>1Монтажная область 3</title>
+  <path class="cls-1" d="M0,293H768V97.81c-107.45,56.9-218.49,83.08-331.34,62.62C266,129.48,147.08,189.46,0,293Z"/>
+  <path class="cls-2" d="M79.57,293H768V113.13Q665.51,234.45,435.47,199.07,216.35,165.3,79.57,293Z"/>
+  <g id="Дом-2" class="cls-3">
+    <g>
+      <g id="Слой_1-2" data-name="Слой 1">
+        <polygon id="Path" class="cls-4" points="490.76 139.54 603.84 139.54 603.84 87.46 499.78 87.46 490.76 139.54"/>
+        <polygon id="Path-2" data-name="Path" class="cls-5" points="593.85 230.43 699.17 230.43 699.17 56.42 646.51 5.21 593.85 56.42 593.85 230.43"/>
+        <rect id="Rectangle" class="cls-6" x="490.77" y="139.54" width="103.09" height="90.78"/>
+        <polygon id="Rectangle-2" data-name="Rectangle" class="cls-7" points="707.58 61.12 648.26 1.8 645.52 4.54 704.84 63.87 707.58 61.12"/>
+        <polygon id="Rectangle-3" data-name="Rectangle" class="cls-7" points="588.97 63.86 649.65 3.16 646.91 0.42 586.22 61.12 588.97 63.86"/>
+        <polygon id="Path-3" data-name="Path" class="cls-8" points="699.17 58.17 699.17 60.98 699.17 63.89 704.8 63.89 699.17 58.17"/>
+        <polygon id="Path-4" data-name="Path" class="cls-8" points="593.85 58.95 593.85 61.37 593.85 63.8 589 63.8 593.85 58.95"/>
+        <polygon id="Path-5" data-name="Path" class="cls-7" points="682.49 36.06 698.49 52.06 698.49 11.71 682.49 11.71 682.49 36.06"/>
+        <polygon id="Path-6" data-name="Path" class="cls-8" points="682.49 36.06 686.76 40.32 687.15 11.71 682.49 11.71 682.49 36.06"/>
+        <circle id="Oval" class="cls-9" cx="646.51" cy="48.47" r="10.96"/>
+        <circle id="Oval-2" data-name="Oval" class="cls-10" cx="646.51" cy="48.47" r="13"/>
+        <rect id="Rectangle-4" data-name="Rectangle" class="cls-11" x="645.35" y="36.54" width="2.42" height="23.76"/>
+        <g id="Group">
+          <rect id="Rectangle-5" data-name="Rectangle" class="cls-8" x="657.37" y="75.05" width="25.12" height="46.56"/>
+          <rect id="Rectangle-6" data-name="Rectangle" class="cls-12" x="660.19" y="79.99" width="19.69" height="36.57"/>
+          <rect id="Rectangle-7" data-name="Rectangle" class="cls-8" x="658.63" y="97.35" width="22.6" height="2.3"/>
+        </g>
+        <g id="Group-2" data-name="Group">
+          <rect id="Rectangle-8" data-name="Rectangle" class="cls-8" x="609.47" y="75.05" width="25.12" height="46.56"/>
+          <rect id="Rectangle-9" data-name="Rectangle" class="cls-13" x="612.18" y="79.99" width="19.69" height="36.57"/>
+          <rect id="Rectangle-10" data-name="Rectangle" class="cls-8" x="610.73" y="97.35" width="22.6" height="2.3"/>
+        </g>
+        <g id="Group-3" data-name="Group">
+          <rect id="Rectangle-11" data-name="Rectangle" class="cls-8" x="657.37" y="133.24" width="25.12" height="46.56"/>
+          <rect id="Rectangle-12" data-name="Rectangle" class="cls-14" x="660.19" y="138.28" width="19.69" height="36.57"/>
+          <rect id="Rectangle-13" data-name="Rectangle" class="cls-8" x="658.63" y="155.55" width="22.6" height="2.3"/>
+        </g>
+        <g id="Group-4" data-name="Group">
+          <rect id="Rectangle-14" data-name="Rectangle" class="cls-8" x="609.47" y="133.24" width="25.12" height="46.56"/>
+          <rect id="Rectangle-15" data-name="Rectangle" class="cls-15" x="612.18" y="138.28" width="19.69" height="36.57"/>
+          <rect id="Rectangle-16" data-name="Rectangle" class="cls-8" x="610.73" y="155.55" width="22.6" height="2.3"/>
+        </g>
+        <rect id="Rectangle-17" data-name="Rectangle" class="cls-8" x="559.14" y="151.18" width="34.72" height="53.25"/>
+        <g id="Group-5" data-name="Group">
+          <rect id="Rectangle-18" data-name="Rectangle" class="cls-16" x="578.14" y="155.84" width="10.47" height="19.4"/>
+          <rect id="Rectangle-19" data-name="Rectangle" class="cls-17" x="564.47" y="155.84" width="10.47" height="19.4"/>
+        </g>
+        <rect id="Rectangle-20" data-name="Rectangle" class="cls-18" x="559.14" y="205.3" width="34.72" height="3.01"/>
+        <rect id="Rectangle-21" data-name="Rectangle" class="cls-19" x="559.14" y="210.83" width="34.72" height="3.01"/>
+        <rect id="Rectangle-22" data-name="Rectangle" class="cls-20" x="549.53" y="216.36" width="44.32" height="3.01"/>
+        <rect id="Rectangle-23" data-name="Rectangle" class="cls-21" x="549.53" y="221.89" width="44.32" height="3.01"/>
+        <rect id="Rectangle-24" data-name="Rectangle" class="cls-22" x="549.53" y="227.32" width="44.32" height="3.01"/>
+        <g id="Group-6" data-name="Group">
+          <rect id="Rectangle-25" data-name="Rectangle" class="cls-8" x="523.84" y="151.18" width="19.4" height="35.89"/>
+          <rect id="Rectangle-26" data-name="Rectangle" class="cls-23" x="525.97" y="155.06" width="15.23" height="28.22"/>
+          <rect id="Rectangle-27" data-name="Rectangle" class="cls-8" x="524.9" y="168.45" width="17.46" height="2.3"/>
+        </g>
+        <g id="Group-7" data-name="Group">
+          <rect id="Rectangle-28" data-name="Rectangle" class="cls-8" x="497.84" y="151.18" width="19.4" height="35.89"/>
+          <rect id="Rectangle-29" data-name="Rectangle" class="cls-24" x="499.98" y="155.06" width="15.23" height="28.22"/>
+          <rect id="Rectangle-30" data-name="Rectangle" class="cls-8" x="498.81" y="168.45" width="17.46" height="2.3"/>
+        </g>
+        <polygon id="Path-7" data-name="Path" class="cls-25" points="530.14 230.43 549.53 230.43 549.53 204.43 530.14 230.43"/>
+        <g id="Group-8" data-name="Group">
+          <polygon id="Path-8" data-name="Path" class="cls-26" points="516.66 126.35 533.82 132.27 559.62 132.27 575.52 126.35 575.52 91.63 516.66 91.63 516.66 126.35"/>
+          <polygon id="Path-9" data-name="Path" class="cls-27" points="516.66 126.35 533.82 132.27 533.63 91.63 516.66 91.63 516.66 126.35"/>
+          <g id="Rectangle-31" data-name="Rectangle">
+            <rect class="cls-8" x="539.45" y="97.84" width="13.29" height="24.64"/>
+            <rect class="cls-28" x="540.81" y="100.46" width="10.47" height="19.4"/>
+            <rect class="cls-8" x="540.13" y="109.57" width="11.93" height="2.3"/>
+          </g>
+          <polygon id="Path-10" data-name="Path" class="cls-7" points="546.14 63.8 511.13 91.53 581.05 91.53 546.14 63.8"/>
+          <polyline id="Path-11" data-name="Path" class="cls-8" points="546.14 63.8 511.13 91.53 534.6 91.53"/>
+        </g>
+      </g>
+      <g id="Слой_2" data-name="Слой 2">
+        <path id="Path-12" data-name="Path" class="cls-29" d="M455.64,188.22V227"/>
+        <ellipse id="Oval-3" data-name="Oval" class="cls-30" cx="453.69" cy="176.12" rx="14.37" ry="14.44"/>
+        <ellipse id="Oval-4" data-name="Oval" class="cls-30" cx="464.67" cy="191.14" rx="14.28" ry="14.34"/>
+        <ellipse id="Oval-5" data-name="Oval" class="cls-30" cx="445.93" cy="195.14" rx="13.01" ry="13.07"/>
+        <path id="Path-13" data-name="Path" class="cls-30" d="M711.14,230.16H678c0-11.8,7.38-21.36,16.51-21.36S711.14,218.36,711.14,230.16Z"/>
+        <g id="Group-9" data-name="Group">
+          <path id="Path-14" data-name="Path" class="cls-31" d="M494.77,230.55h33.6c0-8.19-7.48-14.83-16.8-14.83S494.77,222.36,494.77,230.55Z"/>
+          <path id="Path-15" data-name="Path" class="cls-30" d="M467.48,230.55h47.29c0-11.51-10.59-20.87-23.6-20.87S467.48,219,467.48,230.55Z"/>
+          <path id="Path-16" data-name="Path" class="cls-30" d="M429.51,230.55h41.86c0-6.83-9.32-12.39-20.88-12.39S429.51,223.72,429.51,230.55Z"/>
+        </g>
+        <path id="Path-17" data-name="Path" class="cls-30" d="M760.47,230.16H698.8c0-15.22,13.79-27.61,30.78-27.61S760.47,214.95,760.47,230.16Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="Дом-1" class="cls-32">
+    <g>
+      <rect id="Rectangle-32" data-name="Rectangle" class="cls-33" x="245.03" y="141.87" width="88.37" height="53.36"/>
+      <rect id="Rectangle-33" data-name="Rectangle" class="cls-8" x="238.42" y="141.87" width="94.98" height="4.62"/>
+      <polygon id="Path-18" data-name="Path" class="cls-34" points="296.32 231.66 239.44 231.66 239.44 172.73 265.3 141.87 296.32 179.91 296.32 231.66"/>
+      <polygon id="Path-19" data-name="Path" class="cls-35" points="377.08 139.41 355.04 99.28 333.4 139.41 333.4 232.18 377.08 232.18 377.08 139.41"/>
+      <polygon id="Path-20" data-name="Path" class="cls-36" points="269.26 99.28 356.25 99.28 333.24 141.87 238.42 141.87 269.26 99.28"/>
+      <polygon id="Path-21" data-name="Path" class="cls-35" points="333.4 232.18 295.82 232.18 295.82 166.8 320.34 165.99 326.43 173.5 333.4 182 333.4 232.18"/>
+      <polygon id="Path-22" data-name="Path" class="cls-37" points="333.4 181.38 302.06 181.38 262.3 133.66 294.35 133.66 333.4 181.38"/>
+      <polygon id="Path-23" data-name="Path" class="cls-8" points="239.36 172.75 265.34 142.02 263 139.31 226.24 183.43 239.36 183.43 239.36 172.75"/>
+      <polygon id="Path-24" data-name="Path" class="cls-7" points="225.97 183.94 263.31 139.48 260.98 136.74 223.19 182.19 225.97 183.94"/>
+      <polygon id="Path-25" data-name="Path" class="cls-7" points="262.36 133.66 302.42 181.1 299.2 182.92 260.26 136.19 262.36 133.66"/>
+      <polygon id="Path-26" data-name="Path" class="cls-8" points="298.36 183.43 333.4 183.43 333.4 181.89 301.59 181.89 298.36 183.43"/>
+      <g id="Group-10" data-name="Group">
+        <rect id="Rectangle-34" data-name="Rectangle" class="cls-8" x="297.29" y="141.06" width="8.45" height="11.36"/>
+        <polygon id="Path-27" data-name="Path" class="cls-38" points="297.29 152.47 288.7 141.06 297.29 141.06 297.29 152.47"/>
+      </g>
+      <g id="Group-11" data-name="Group">
+        <rect id="Rectangle-35" data-name="Rectangle" class="cls-8" x="249.09" y="170.83" width="10.86" height="20.54"/>
+        <rect id="Rectangle-36" data-name="Rectangle" class="cls-39" x="250.3" y="173.2" width="8.4" height="15.84"/>
+      </g>
+      <rect id="Rectangle-37" data-name="Rectangle" class="cls-8" x="250.61" y="180.35" width="8.13" height="2.3"/>
+      <g id="Group-12" data-name="Group">
+        <rect id="Rectangle-38" data-name="Rectangle" class="cls-8" x="270.47" y="170.83" width="10.86" height="20.54"/>
+        <rect id="Rectangle-39" data-name="Rectangle" class="cls-40" x="271.72" y="173.2" width="8.4" height="15.84"/>
+      </g>
+      <rect id="Rectangle-40" data-name="Rectangle" class="cls-8" x="271.94" y="180.35" width="8.13" height="2.3"/>
+      <g id="Group-13" data-name="Group">
+        <rect id="Rectangle-41" data-name="Rectangle" class="cls-8" x="249.09" y="198.58" width="10.86" height="20.54"/>
+        <rect id="Rectangle-42" data-name="Rectangle" class="cls-41" x="250.3" y="200.91" width="8.4" height="15.84"/>
+      </g>
+      <rect id="Rectangle-43" data-name="Rectangle" class="cls-8" x="250.61" y="208.06" width="8.13" height="2.3"/>
+      <g id="Group-14" data-name="Group">
+        <rect id="Rectangle-44" data-name="Rectangle" class="cls-8" x="270.47" y="198.58" width="10.86" height="20.54"/>
+        <rect id="Rectangle-45" data-name="Rectangle" class="cls-42" x="271.72" y="200.91" width="8.4" height="15.84"/>
+      </g>
+      <rect id="Rectangle-46" data-name="Rectangle" class="cls-8" x="271.94" y="208.06" width="8.13" height="2.3"/>
+      <polygon id="Path-28" data-name="Path" class="cls-7" points="334.77 146.49 356.25 105.21 356.25 99.28 333.4 141.99 333.44 146.49 334.77 146.49"/>
+      <polygon id="Path-29" data-name="Path" class="cls-7" points="376.94 144.71 356.25 105.21 356.25 99.28 381.65 146.49 376.86 146.49 376.94 144.71"/>
+      <ellipse id="Oval-6" data-name="Oval" class="cls-43" cx="356.76" cy="137.06" rx="4.57" ry="5.68"/>
+      <rect id="Rectangle-47" data-name="Rectangle" class="cls-35" x="355.89" y="131.1" width="2.3" height="11.8"/>
+      <ellipse id="Oval-7" data-name="Oval" class="cls-10" cx="356.76" cy="137" rx="5.08" ry="6.41"/>
+      <g id="Group-15" data-name="Group">
+        <polygon id="Rectangle-48" data-name="Rectangle" class="cls-8" points="352.56 169.04 343.97 169.04 343.97 152.9 352.56 152.9 352.56 169.04"/>
+        <polygon id="Path-30" data-name="Path" class="cls-44" points="344.98 167.19 351.6 167.19 351.6 154.74 344.98 154.74 344.98 167.19"/>
+      </g>
+      <polygon id="Rectangle-49" data-name="Rectangle" class="cls-8" points="351.39 161.48 344.95 161.48 344.95 160.54 351.39 160.54 351.39 161.48"/>
+      <g id="Group-16" data-name="Group">
+        <polygon id="Rectangle-50" data-name="Rectangle" class="cls-8" points="370.26 169.02 361.67 169.02 361.67 152.87 370.26 152.87 370.26 169.02"/>
+        <polygon id="Path-31" data-name="Path" class="cls-45" points="362.66 167.19 369.24 167.19 369.24 154.74 362.66 154.74 362.66 167.19"/>
+      </g>
+      <polygon id="Rectangle-51" data-name="Rectangle" class="cls-8" points="369.48 161.5 363.04 161.5 363.04 160.56 369.48 160.56 369.48 161.5"/>
+      <g id="Group-17" data-name="Group">
+        <polygon id="Rectangle-52" data-name="Rectangle" class="cls-8" points="352.25 191.34 343.66 191.34 343.66 175.63 352.25 175.63 352.25 191.34"/>
+        <polygon id="Path-32" data-name="Path" class="cls-46" points="344.65 189.51 351.24 189.51 351.24 177.44 344.65 177.44 344.65 189.51"/>
+      </g>
+      <polygon id="Rectangle-53" data-name="Rectangle" class="cls-8" points="351.49 184.08 345.05 184.08 345.05 183.14 351.49 183.14 351.49 184.08"/>
+      <g id="Group-18" data-name="Group">
+        <polygon id="Rectangle-54" data-name="Rectangle" class="cls-8" points="370.36 191.36 361.77 191.36 361.77 175.65 370.36 175.65 370.36 191.36"/>
+        <polygon id="Path-33" data-name="Path" class="cls-47" points="362.8 189.56 369.38 189.56 369.38 177.44 362.8 177.44 362.8 189.56"/>
+      </g>
+      <polygon id="Rectangle-55" data-name="Rectangle" class="cls-8" points="369.58 184.1 363.14 184.1 363.14 183.16 369.58 183.16 369.58 184.1"/>
+      <g id="Group-19" data-name="Group">
+        <polygon id="Path-34" data-name="Path" class="cls-35" points="287.49 118.76 273.15 129.71 273.15 114.45 279.81 114.27 287.49 114.94 287.49 118.76"/>
+        <polygon id="Path-35" data-name="Path" class="cls-48" points="273.15 129.71 256.77 129.71 256.77 112.69 264.23 103.81 273.15 114.76 273.15 129.71"/>
+        <polygon id="Path-36" data-name="Path" class="cls-49" points="289.21 114.89 274.96 115.3 263.52 101.47 277.47 101.47 289.21 114.89"/>
+        <polygon id="Path-37" data-name="Path" class="cls-8" points="256.77 112.69 264.23 103.76 263.57 103 252.98 115.84 256.77 115.84 256.77 112.69"/>
+        <polygon id="Path-38" data-name="Path" class="cls-7" points="252.98 115.84 263.57 103 262.91 102.19 252.18 115.3 252.98 115.84"/>
+        <polygon id="Path-39" data-name="Path" class="cls-7" points="263.52 101.47 274.96 115.3 274.03 115.84 262.91 102.19 263.52 101.47"/>
+        <polygon id="Path-40" data-name="Path" class="cls-8" points="274.03 115.84 289.21 115.39 289.21 114.89 274.96 115.3 274.03 115.84"/>
+      </g>
+      <g id="Group-20" data-name="Group">
+        <polygon id="Rectangle-56" data-name="Rectangle" class="cls-8" points="319.26 129.7 310.96 129.7 310.96 102.63 319.26 102.63 319.26 129.7"/>
+        <polygon id="Path-41" data-name="Path" class="cls-38" points="319.25 129.71 325.01 119.53 324.87 102.68 319.25 102.68 319.25 129.71"/>
+      </g>
+      <g id="Group-21" data-name="Group">
+        <rect id="Rectangle-57" data-name="Rectangle" class="cls-8" x="260.49" y="112.44" width="7.13" height="13.9"/>
+        <rect id="Rectangle-58" data-name="Rectangle" class="cls-50" x="261.29" y="114.06" width="5.51" height="10.71"/>
+      </g>
+      <rect id="Rectangle-59" data-name="Rectangle" class="cls-8" x="260.77" y="118.78" width="5.08" height="2.3"/>
+      <rect id="Rectangle-60" data-name="Rectangle" class="cls-8" x="308.51" y="190.62" width="18.28" height="33.86"/>
+      <rect id="Rectangle-61" data-name="Rectangle" class="cls-51" x="311.56" y="194.72" width="5.08" height="10.26"/>
+      <rect id="Rectangle-62" data-name="Rectangle" class="cls-52" x="318.67" y="194.72" width="5.08" height="10.26"/>
+      <rect id="Rectangle-63" data-name="Rectangle" class="cls-53" x="308.51" y="224.48" width="21.33" height="2.3"/>
+      <rect id="Rectangle-64" data-name="Rectangle" class="cls-54" x="312.07" y="227.05" width="21.33" height="2.3"/>
+      <rect id="Rectangle-65" data-name="Rectangle" class="cls-55" x="315.62" y="228.07" width="21.33" height="2.3"/>
+      <rect id="Rectangle-66" data-name="Rectangle" class="cls-56" x="321.21" y="230.64" width="21.33" height="2.3"/>
+      <g id="Group-22" data-name="Group">
+        <g>
+          <path id="Path-42" data-name="Path" class="cls-57" d="M400.81,196.19c0,21.57-4.09,20.35-9.06,20.35s-9.06,1.22-9.06-20.35,4.09-39,9.06-39S400.81,174.62,400.81,196.19Z"/>
+          <rect id="Rectangle-67" data-name="Rectangle" class="cls-58" x="391.05" y="216.54" width="2.3" height="14.09"/>
+        </g>
+        <g>
+          <path id="Path-43" data-name="Path" class="cls-59" d="M416.31,205c0,14.68-2.75,13.82-6.17,13.82S404,219.6,404,205s2.75-26.56,6.17-26.56S416.31,190.29,416.31,205Z"/>
+          <rect id="Rectangle-68" data-name="Rectangle" class="cls-58" x="409.65" y="218.79" width="2.3" height="9.59"/>
+        </g>
+        <g id="Path-44" data-name="Path">
+          <path class="cls-31" d="M376.08,231.53H353.75c0-4.77,5-8.64,11.19-8.64S376.08,226.76,376.08,231.53Z"/>
+          <path class="cls-30" d="M394.2,231.53H362.76c0-6.71,7-12.11,15.72-12.11S394.2,224.82,394.2,231.53Z"/>
+          <path class="cls-30" d="M419.42,231.53h-27.8c0-4,6.22-7.16,13.9-7.16S419.42,227.57,419.42,231.53Z"/>
+        </g>
+        <path id="Path-45" data-name="Path" class="cls-30" d="M251.58,231.17H220.14c0-6.71,7-12.11,15.72-12.11S251.58,224.46,251.58,231.17Z"/>
+        <path id="Path-46" data-name="Path" class="cls-30" d="M276.8,231.17H249c0-4,6.22-7.16,13.9-7.16S276.8,227.21,276.8,231.17Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="261" height="40" viewBox="0 0 261 40">
+    <defs>
+        <linearGradient id="a" x1="12.267%" x2="88.339%" y1="49.616%" y2="51.926%">
+            <stop offset="0%" stop-color="#F80040"/>
+            <stop offset="100%" stop-color="#FF9A00"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="url(#a)" d="M272.038 40H47.058c-4.702 0-8.896-2.9-11.639-7.432l.001.022L26 24.442s3.344.68 5.541-1.481c.223-.219.44-.46.649-.715A27.01 27.01 0 0 1 32.096 20c0-11.046 6.698-20 14.961-20h224.981C280.302 0 287 8.954 287 20s-6.698 20-14.962 20z" transform="translate(-26)"/>
+        <text fill="#FFF" font-family="Futura-Bold, Futura" font-size="14" font-weight="bold" transform="translate(-26)">
+            <tspan x="66.518" y="26">ИННОЛОВСКИЕ ПРУДЫ</tspan>
+        </text>
+    </g>
+</svg>

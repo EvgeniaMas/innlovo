@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="74" viewBox="0 0 68 74">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#FBF9F0"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#000" font-family="TTNorms-Regular, TT Norms" font-size="18" transform="translate(-145 -1)">
+            <tspan x="0" y="86.603">В поселке, который отгородился </tspan> <tspan x="0" y="111.603">от городской суеты, всего 22 </tspan> <tspan x="0" y="136.603">земельных участка и 28 квартир в </tspan> <tspan x="0" y="161.603">таунхаусах, благодаря чему жизнь </tspan> <tspan x="0" y="186.603">в поселке размеренна и спокойна.</tspan>
+        </text>
+        <path fill="url(#a)" d="M37.43 74.997c19.889-.189 23.72-16.58 29.614-33.713C72.937 24.15 50.47 7.016 30.58 1.802 10.69-3.413.528 17.627.01 41.284-.506 64.94 17.54 75.187 37.43 74.997z" transform="rotate(180 34 37.5)"/>
+        <path fill="#5EBE64" fill-rule="nonzero" d="M34.5 27C49.577 27 56 42 56 42H13s6.423-15 21.5-15z"/>
+        <path fill="#C78366" fill-rule="nonzero" d="M37 24h13v9H37z"/>
+        <path fill="#CB3D43" fill-rule="nonzero" d="M43 18l9 7H34z"/>
+        <path fill="#FFF7DB" fill-rule="nonzero" d="M41 26h4v7h-4z"/>
+        <path fill="#379258" fill-rule="nonzero" d="M43.5 31C55.07 31 60 42 60 42H27s4.93-11 16.5-11z"/>
+    </g>
+</svg>

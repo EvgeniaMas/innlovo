@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="68" viewBox="0 0 54 68">
+    <defs>
+        <rect id="a" width="368.182" height="385" x=".725" rx="12"/>
+        <filter id="b" width="111.1%" height="110.6%" x="-5.6%" y="-4.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="6.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.821274909 0 0 0 0 0.821274909 0 0 0 0 0.821274909 0 0 0 0.5 0"/>
+        </filter>
+        <linearGradient id="c" x1="18.509%" x2="45.986%" y1="39.301%" y2="50.583%">
+            <stop offset="0%" stop-color="#FFF6DC"/>
+            <stop offset="100%" stop-color="#FFEFD3"/>
+        </linearGradient>
+        <linearGradient id="e" x1="15.539%" x2="57.414%" y1="43.638%" y2="48.372%">
+            <stop offset="0%" stop-color="#FFE0A7"/>
+            <stop offset="100%" stop-color="#FFFDF8"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(-38 -33)">
+            <mask id="d" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <use fill="#000" filter="url(#b)" xlink:href="#a"/>
+            <use fill="#FFF" xlink:href="#a"/>
+            <path fill="url(#c)" d="M-118 468.683C-63.689 330.45 32.207 277.288 169.687 309.196c137.48 31.907 237.86-12.88 301.14-134.365l28.107 223.014L215.54 631.628l-96.124-8.36-150.72-156.17-86.696 1.585z" mask="url(#d)" opacity=".584" transform="rotate(20 190.467 403.23)"/>
+            <path fill="url(#e)" d="M-77.45 449.212c37.712-89.72 106.304-128.524 205.775-116.411s167.884-10.179 205.24-66.874L447.94 370.728l-215.893 213.41-86.3-.058-156.653-118.325-66.544-16.543z" mask="url(#d)" opacity=".214" transform="rotate(20 185.246 425.032)"/>
+        </g>
+        <g stroke="#158704" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+            <path d="M11.619 2.173c-5.175 0-9.375 3.81-9.375 8.504v39.55c0 4.694 4.2 8.504 9.375 8.504h31.25c5.175 0 9.375-3.81 9.375-8.505V10.677c0-4.694-4.2-8.504-9.375-8.504h-31.25zm-7.813 64l7.813-7.442-7.813 7.442zm46.875 0L42.87 58.73l7.812 7.442z"/>
+            <path d="M14.744 7.904h25-25zm37.5 28.163h-50 50zm-50-22.234h50-50zm25 22.234V13.833v22.234zm14.062 5.929c-2.589 0-4.687 1.99-4.687 4.447 0 2.456 2.098 4.446 4.687 4.446 2.59 0 4.688-1.99 4.688-4.446 0-2.457-2.099-4.447-4.688-4.447zm-28.125 0c-2.589 0-4.687 1.99-4.687 4.447 0 2.456 2.098 4.446 4.687 4.446 2.59 0 4.688-1.99 4.688-4.446 0-2.457-2.099-4.447-4.688-4.447z"/>
+        </g>
+    </g>
+</svg>
